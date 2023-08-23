@@ -1,5 +1,7 @@
+package main
+
 func predictTheWinner(nums []int) bool {
-    N := len(nums)
+	N := len(nums)
 
 	hasCache := make([][]bool, N+1)
 	cache := make([][]int, N+1)

@@ -1,3 +1,3 @@
-module github.com/jmarron7/leetcode-exercises/2023/8-22
+module github.com/jmarron7/leetcode-exercises/2023/168-excelSheetColumnTitle
 
 go 1.18
